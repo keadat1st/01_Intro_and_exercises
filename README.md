@@ -18,5 +18,8 @@ https://dat17v1.slack.com/signup.
 You can sign up with your kea email.   
 Each day one student writes a summary of the day in our slack group.
 
-
-
+## Homework
+Monday and during module 1, we will work with the material in this link:
+https://www.lynda.com/Java-tutorials/Welcome/96949/106053-4.html
+(Intro to including chapter 5).
+Material for programming will also be provided.
