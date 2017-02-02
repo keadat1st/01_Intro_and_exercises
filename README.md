@@ -24,5 +24,5 @@ https://www.lynda.com/Java-tutorials/Welcome/96949/106053-4.html
 Material for programming will also be provided.
 
 Dansk IT
-dit.dk/SignUp
+http://dit.dk/SignUp
 Gratis - meld dig til.
