@@ -15,6 +15,7 @@ https://docs.google.com/document/d/1jgjZbYzhcBIXUGoovvZoUYfv38ArclxE8OW4d9yvZIc/
 
 ##Communication in our team:
 We use a Ryver group for discussions.
+https://kea.ryver.com/index.html#teams/1091091
 Each day one student writes a summary of the day in our ryver group.
 
 ## Homework
