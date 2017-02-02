@@ -26,4 +26,4 @@ Material for programming will also be provided.
 
 Dansk IT
 http://dit.dk/SignUp
-Gratis - meld dig til.
+Gratis - meld dig gerne til.
