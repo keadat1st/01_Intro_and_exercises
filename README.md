@@ -1,19 +1,19 @@
 # 01_Intro_and_exercises
 
-##Goals of today: 
+## Goals of today: 
 * Introduction to this semester.
 * Exercises
 
-##Link:
+## Link:
 https://studio.code.org/hoc/1
 
-##Exercise:
+## Exercise:
 https://docs.google.com/document/d/1EAupeo1ikBFxWct2QSdkfcx7q5pHJ0QkWXIr-gdIBwI/pub
 
-##Create a Lynda.com account:
+## Create a Lynda.com account:
 https://docs.google.com/document/d/1jgjZbYzhcBIXUGoovvZoUYfv38ArclxE8OW4d9yvZIc/pub
 
-##Communication in our team:
+## Communication in our team:
 We use a Ryver group for discussions.
 https://kea.ryver.com/index.html#teams/1091091
 Each day one student writes a summary of the day in our ryver group.
