@@ -9,7 +9,7 @@
 * [Code.org](https://studio.code.org/hoc/1)
 
 ## Exercise:
-* [Backgammon Object Oriented Analysis](https://docs.google.com/document/d/1EAupeo1ikBFxWct2QSdkfcx7q5pHJ0QkWXIr-gdIBwI/pub)
+* [Backgammon Object Oriented Analysis](https://github.com/keadat1st/01_exercise_Backgammon_Object_Oriented_Analysis)
 
 ## Create a Lynda.com account:
 https://docs.google.com/document/d/1jgjZbYzhcBIXUGoovvZoUYfv38ArclxE8OW4d9yvZIc/pub
