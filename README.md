@@ -1,4 +1,4 @@
-# 01 Intro to Objekt Oriented Analasis and Design
+# 01 Intro to Object Oriented Analasis and Design
 > Agenda, Day 1 (design)
 
 ## Goals of today: 
