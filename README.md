@@ -5,6 +5,9 @@
 * Introduction to this semester.
 * Exercises in OOAD
 
+## Video
+* [Everybody in this country should learn to program a computer because it teaches you how to think](https://code.org/)
+
 ## Angry bird object game
 * [Code.org](https://studio.code.org/hoc/1)
 
