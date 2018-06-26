@@ -16,13 +16,7 @@
 
 ## Create a Lynda.com account:
 https://docs.google.com/document/d/1jgjZbYzhcBIXUGoovvZoUYfv38ArclxE8OW4d9yvZIc/pub
+
 Literature this semester is partly this tutorial [Programming Foundations: Object-Oriented Design](https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html)
-
-## Homework
-Monday and during module 1, we will work with the material in this link:
-https://www.lynda.com/Java-tutorials/Welcome/96949/106053-4.html
-(Intro to including chapter 5).
-Material for programming will also be provided.
-
 
 &copy; KEA, clbo 2018
